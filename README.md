@@ -5,19 +5,31 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=42-dnyaneshwari" alt="42-dnyaneshwari" /></a> </p>
 
-- 🔭 I've worked on [Handwritten_Digit_Detection](https://github.com/42-Dnyaneshwari/Handwritten_Digit_Detection)
+## 🌱 Currently Learning
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- Artificial Intelligence
 
-- 🔭 I've worked on [Movie_Recommendation_System](https://github.com/42-Dnyaneshwari/Movie_Recommendation_System)
+## 🔭 Projects
 
-- 🔭 I've worked on [Lost_And_Found_Management_System](https://github.com/42-Dnyaneshwari/Lost_And_Found_Management_System)
+- [Handwritten Digit Detection](https://github.com/42-Dnyaneshwari/Handwritten_Digit_Detection)
+ For the handwritten digit detection project we have use the data set handwritten digits and this is basically a deep learning project in which we have use the artificial neural network by using the neural network we have add hidden layers and using that it and layers we have improve the accuracy as well as we can get the handwritten digit detected using python.
+- [Movie Recommendation System](https://github.com/42-Dnyaneshwari/Movie_Recommendation_System)
+In the movie recommendation system project we have used technology is like python and a surprise library and also be created the GUI for the movie recommendation system basically we have compared the three recommendation techniques first was the collaborative filtering second one was the content based filtering and third one was the clustering using DB scan so using these three technology which can be work better to get recommendation to the users in order to recommend the movies which can be the better method so we came to the conclusion after all the implementation part that the collaborative fitting method was the best recommendation to the users as it was having the less amount of error that is absolute error and route means absolute percentage error.
+and also we have prepared a research paper on this project.
+- [Lost And Found Management System](https://github.com/42-Dnyaneshwari/Lost_And_Found_Management_System)
+  In the lost and found management system project we have use the web development technology is like HTML CSS JavaScript for front end and for back and behave use the nose express server and using that whatever the belongings of the customers are lost that can be found out using this lost and found management system as we have built the static website which needs to get update to get deploy to the customer but if you want to use this system so that you need to report your lost belongings and your personal details so that if anyone could get the product of yours they can also report in that website and you can get one notification that the product of your which was lost you can get from this this customer.
 
-- 💬 Ask me about **Data Science**
+## 💬 Ask me about
 
-- 📫 How to reach me **32dnyaneshwaridolzake@gmail.com**
+- Data Science
 
-- 📄 Know about my experiences [https://app.luminpdf.com/viewer/663b95b77f0f7ea04ddb6db9](https://app.luminpdf.com/viewer/663b95b77f0f7ea04ddb6db9)
+## 📫 How to reach me
+
+- Email: 32dnyaneshwaridolzake@gmail.com
+
+## 📄 Know about my experiences
+
+[Resume](https://app.luminpdf.com/viewer/663b95b77f0f7ea04ddb6db9)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,5 +46,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=42-dnyaneshwari&show_icons=true&locale=en&layout=compact" alt="42-dnyaneshwari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=42-dnyaneshwari&show_icons=true&locale=en" alt="42-dnyaneshwari" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=42-dnyaneshwari&" alt="42-dnyaneshwari" /></p>
+
