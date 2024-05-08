@@ -5,7 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=42-dnyaneshwari" alt="42-dnyaneshwari" /></a> </p>
 
+- 🔭 I've worked on [Handwritten_Digit_Detection](https://github.com/42-Dnyaneshwari/Handwritten_Digit_Detection)
+
+- 🌱 I’m currently learning **Artificial Intelligence**
+
+- 🔭 I've worked on **Movie_Recommendation_System**
+
+- 🔭 I've worked on **Lost_And_Found_Management_System**
+
+- 💬 Ask me about **Data Science**
+
 - 📫 How to reach me **32dnyaneshwaridolzake@gmail.com**
+
+- 📄 Know about my experiences [https://app.luminpdf.com/viewer/663b95b77f0f7ea04ddb6db9](https://app.luminpdf.com/viewer/663b95b77f0f7ea04ddb6db9)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
