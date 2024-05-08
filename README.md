@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 🔭 I've worked on **Movie_Recommendation_System**
+- 🔭 I've worked on [Movie_Recommendation_System](https://github.com/42-Dnyaneshwari/Movie_Recommendation_System)
 
-- 🔭 I've worked on **Lost_And_Found_Management_System**
+- 🔭 I've worked on [Lost_And_Found_Management_System](https://github.com/42-Dnyaneshwari/Lost_And_Found_Management_System)
 
 - 💬 Ask me about **Data Science**
 
