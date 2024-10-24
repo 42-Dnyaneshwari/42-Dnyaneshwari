@@ -19,7 +19,6 @@ In the movie recommendation system project we have used technology is like pytho
 and also we have prepared a research paper on this project.
 - [Lost And Found Management System](https://github.com/42-Dnyaneshwari/Lost_And_Found_Management_System)
 In the lost and found management system project we have use the web development technology is like HTML CSS JavaScript for front end and for back and behave use the nose express server and using that whatever the belongings of the customers are lost that can be found out using this lost and found management system as we have built the static website which needs to get update to get deploy to the customer but if you want to use this system so that you need to report your lost belongings and your personal details so that if anyone could get the product of yours they can also report in that website and you can get one notification that the product of your which was lost you can get from this this customer.
-- [Language Translation using LLM Chain and HuggingFaceHub](https://github.com/42-Dnyaneshwari/Lost_And_Found_Management_System)
 
 ---
 
