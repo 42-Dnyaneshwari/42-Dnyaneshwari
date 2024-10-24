@@ -21,22 +21,35 @@ and also we have prepared a research paper on this project.
 In the lost and found management system project we have use the web development technology is like HTML CSS JavaScript for front end and for back and behave use the nose express server and using that whatever the belongings of the customers are lost that can be found out using this lost and found management system as we have built the static website which needs to get update to get deploy to the customer but if you want to use this system so that you need to report your lost belongings and your personal details so that if anyone could get the product of yours they can also report in that website and you can get one notification that the product of your which was lost you can get from this this customer.
 
 ---
-
 ## Experience
-### 1. Face Detection using OpenCV  
-- **Duration:** 3 Months  
-- **Description:** Developed a face detection system with 94% accuracy using OpenCV and Python. Implemented using Cascade Classifiers.  
 
-### 2. Language Translation using HuggingFace Hub  
-- **Duration:** 3 Months  
-- **Description:** Created a language translation model to convert English to French and Spanish with 90% accuracy. Used LangChain and NLP models from HuggingFace.
+### Internships
+- **Generative AI Intern**, eGlobalDoctors  
+  *July 2024 - Present, US-Remote*  
+  Worked on developing and integrating Generative AI models to enhance telemedicine solutions.
 
-### 3. Epilepsy Occurrence Prediction with Fitbit Data  
-- **Duration:** August - Present  
-- **Description:** Built a time series prediction model using PCA and Transformer. The system analyzes features like sleep patterns, stress levels, and heart rate to forecast epilepsy attacks.
+- **Data Scientist Intern**, Celebal Technologies  
+  *June 2024 - August 2024, Remote*  
+  Developed data-driven solutions and dashboards for enterprise clients by leveraging machine learning techniques.
+
+- **Trainee Artificial Intelligence and Data Science**, Sanjivani Artificial Intelligence  
+  *April 2023 - Present*  
+  Engaged in AI and Data Science projects, focusing on applying predictive models and data preprocessing techniques.
+
+### Projects
+- **Face Detection using OpenCV**  
+  *Duration:* 3 Months  
+  Developed a face detection system with 94% accuracy using OpenCV and Python. Implemented with Cascade Classifiers.
+
+- **Language Translation using HuggingFace Hub**  
+  *Duration:* 3 Months  
+  Created a language translation model to convert English to French and Spanish with 90% accuracy, using LangChain and NLP models.
+
+- **Epilepsy Occurrence Prediction with Fitbit Data**  
+  *Duration:* August 2024 - Present  
+  Built a time-series prediction model using PCA and Transformers. The system analyzes features like sleep patterns, stress levels, and heart rate to forecast epilepsy attacks.
 
 ---
-
 ## 💬 Ask me about
 
 - Data Science
