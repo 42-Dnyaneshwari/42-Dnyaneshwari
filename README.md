@@ -8,6 +8,8 @@
 ## 🌱 Currently Learning
 
 - Artificial Intelligence
+- Generative AI
+- Deep Learning
 
 ## 🔭 Projects
 
